@@ -15,7 +15,7 @@ _A website for Inuendo Resorts, which is fake. Site includes links to available 
 
 ## Known Bugs
 
-_Minor centering issues due to CSS navbar that we weren't supposed to create. Your contribution would be welcomed!_
+_Minor centering issues due to CSS navbar that we weren't supposed to create. Also, nav bar has funny little dot after the Pictures link. Your contribution would be welcomed!_
 
 ## Support and contact details
 
