@@ -1,7 +1,29 @@
+#nav ul{
+text-align:center;
+}
+
 #nav li{
-  display: inline-block;
-  float:left;
+  display:inline-block;
   padding: 5px;
-  margin: 3px;
-  background-color:gray;
+}
+
+#nav li :hover {
+  color: red;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+img {
+  align-items: center;
+}
+
+h1, h2 {
+  text-align: center;
+  line-height: 0.5;
+}
+
+p {
+  text-align: center;
 }
